@@ -16,7 +16,7 @@ timezone: America/Sao_Paulo
 
 title: Renan Blog :D # the main title
 
-tagline: A place that i write about engineering # it will display as the sub-title
+tagline: A place that i write about Software Engineering # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Renan Machado blogs, here i talk about telecnoly, programming, engineering, and
@@ -74,7 +74,7 @@ theme_mode: [dark]
 img_cdn: 
 
 # the avatar on sidebar, support local or CORS resources
-avatar: /assets/lib/myProfilegit.jpeg
+avatar: /assets/myProfilegit.jpeg
 
 # boolean type, the global switch for TOC in posts.
 toc: true
