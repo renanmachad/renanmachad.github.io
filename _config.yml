@@ -16,7 +16,7 @@ timezone:
 
 title: Renan Blog :D # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: A place that i write about engineering # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Renan Machado blogs, here i talk about telecnoly, programming, engineering, and
@@ -24,7 +24,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: "https://renanmachad.github.io"
+url: ""
 
 github:
   username: renanmachad # change to your github username
